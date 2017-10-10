@@ -1,4 +1,6 @@
-# Internet-Hall-of-Fame
+# Internet-Hall-of-Fame #
+![logo](https://upload.wikimedia.org/wikipedia/en/1/14/Internet_Hall_of_Fame_logo_2012.png)
+
 ### 概要 ###
 本项目旨在翻译互联网名人堂入选者的简要介绍，官网链接[在这里](https://www.internethalloffame.org/inductees)。
 
