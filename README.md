@@ -5,7 +5,7 @@
 本项目旨在翻译互联网名人堂入选者的简要介绍，欢迎感兴趣的朋友们一起加入。
 
 ### 简介 ###
-互联网名人堂（[The Internet Hall of Fame](https://www.internethalloffame.org/inductees)）由互联网协会（Internet Society）创建于2012年，目的在于表彰为互联网发展做出杰出贡献的人物，被认为是全球互联网社群的最高荣誉。
+互联网名人堂（[The Internet Hall of Fame](https://www.internethalloffame.org)）由互联网协会（Internet Society）创建于2012年，目的在于表彰为互联网发展做出杰出贡献的人物，被认为是全球互联网社群的最高荣誉。
 
 互联网名人堂的获奖人分为三类：
 * 互联网创始人/先驱（Pioneers）
